@@ -1,0 +1,2 @@
+import yandex_speechkit
+
